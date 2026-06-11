@@ -11,26 +11,26 @@ Only after successful verification is access granted to the locker through a DC 
 
 Features:
 
-4-Digit PIN Verification
-GSM-Based OTP Authentication
-Two-Factor Authentication (2FA)
-LCD User Interface
-Matrix Keypad Input
-Buzzer Alert for Unauthorized Access
-DC Motor Controlled Locker Mechanism
-Maximum Attempt Limitation for Enhanced Security
-Hardware Components
-LPC2129 ARM7 Microcontroller
-SIM800C GSM Module
-16x2 LCD Display
-4x4 Matrix Keypad
-DC Motor
-Buzzer
-Power Supply Unit
-Software Tools
-Keil µVision
-Proteus Professional
-Embedded C
+4-Digit PIN Verification,
+ GSM-Based OTP Authentication,
+ Two-Factor Authentication (2FA),
+ LCD User Interface,
+ Matrix Keypad Input,
+ Buzzer Alert for Unauthorized Access,
+ DC Motor Controlled Locker Mechanism,
+ Maximum Attempt Limitation for Enhanced Security,
+ Hardware Components,
+ LPC2129 ARM7 Microcontroller,
+ SIM800C GSM Module,
+ 16x2 LCD Display,
+ 4x4 Matrix Keypad,
+ DC Motor,
+ Buzzer,
+ Power Supply Unit,
+ Software Tools,
+ Keil µVision,
+ Proteus Professional,
+ Embedded C,
 
 Project Workflow:
 
@@ -46,7 +46,7 @@ The project was implemented and tested on LPC2129 ARM7 hardware.
 
 Applications:
 
-Bank Locker Security
-Personal Safe Lockers
-Restricted Access Storage Systems
-Secure Document Cabinets
+Bank Locker Security,
+ Personal Safe Lockers,
+ Restricted Access Storage Systems,
+ Secure Document Cabinets
