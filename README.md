@@ -30,7 +30,7 @@ Features:
  Software Tools,
  Keil µVision,
  Proteus Professional,
- Embedded C,
+ Embedded C
 
 Project Workflow:
 
